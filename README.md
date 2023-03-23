@@ -32,6 +32,7 @@ A tree is randomly generated based on the following parameters:
 
 
 * How to run the project
+
 Way 1:
 Double click on the jar file 'tree-1.0-SNAPSHOT-jar-with-dependencies.jar' included directly in the project folder.
 
